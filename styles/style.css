@@ -1,0 +1,52 @@
+h1 {
+	text-align: center;
+	font-family: helvetica;
+}
+h2 {
+	font-family: helvetica;
+	font-size: 18px;
+}
+h3 {
+	font-family: helvetica
+	font-size: 60px;
+}
+p {
+	font-family: georgia;
+	font-size: 18px;
+}
+nav {
+	text-align: center;
+	font-family: helvetica
+	font-size: 30px;
+	border-top: 5px solid black;
+}
+a {
+	text-decoration: none;
+	font-family: helvetica;
+	color: black;
+	font-size: 20px;
+}
+hr {
+	color: black;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.social {
+	font-size: 18px;
+	font-family: helvetica;
+	text-align: center;
+	border-bottom: 5px solid black;
+}
+.content{
+	width: 750px;
+	margin: auto;
+}
+body {
+	background: white;
+}
+.photo {
+	float: right;
+    margin: 0 0 10px 10px;
+}
+li a
